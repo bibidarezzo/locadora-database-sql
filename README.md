@@ -1,6 +1,6 @@
 -> Sistema de Banco de Dados - Locadora
 
-Projeto desenvolvido para simular um sistema de locadora utilizando SQL.
+Projeto de estudo com foco em modelagem de banco de dados e consultas SQL para simular um sistema de locadora.
 
 -> Funcionalidades
 
