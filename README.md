@@ -18,12 +18,12 @@ O sistema inclui:
 -> Tecnologias
 - SQL
 
--> Conceitos aplicados:
-- Modelagem relacional
+-> Conceitos aplicados
+- Modelagem de banco de dados relacional
 - Chaves primárias e estrangeiras
 - Subqueries
-- Funções de agregação
-- Manipulação de dados
+- Funções de agregação (MAX)
+- Manipulação de dados (INSERT, UPDATE)
 
 -> Como executar
 1. Execute `schema.sql`
