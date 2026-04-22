@@ -1,5 +1,5 @@
 -- Projeto: Sistema de Locadora
--- Autora: Gabriela Darezzo
+-- Desenvolvedora: Gabriela Darezzo
 
 INSERT INTO artista VALUES
 (1, 'Marisa Monte'),
