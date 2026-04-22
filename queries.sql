@@ -1,7 +1,7 @@
 -- Projeto: Sistema de Locadora
 -- Desenvolvedora: Gabriela Darezzo
 
--- 1 - Clientes solteiros
+-- 1 - Listar clientes que NÃO possuem cônjuge
 SELECT * FROM cliente
 WHERE cod_cliente NOT IN (SELECT cod_cli FROM conjuge);
 
